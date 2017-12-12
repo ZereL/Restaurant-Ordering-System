@@ -1,0 +1,12 @@
+C:\Users\Hank\source\repos\Cater\CaterModel\bin\Debug\CaterModel.dll
+C:\Users\Hank\source\repos\Cater\CaterModel\bin\Debug\CaterModel.pdb
+C:\Users\Hank\source\repos\Cater\CaterModel\obj\Debug\CaterModel.csproj.CoreCompileInputs.cache
+C:\Users\Hank\source\repos\Cater\CaterModel\obj\Debug\CaterModel.dll
+C:\Users\Hank\source\repos\Cater\CaterModel\obj\Debug\CaterModel.pdb
+C:\Users\Hank\source\repos\Cater\CaterModel\obj\Debug\CaterModel.csprojResolveAssemblyReference.cache
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\bin\Debug\CaterModel.dll
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\bin\Debug\CaterModel.pdb
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\obj\Debug\CaterModel.csprojResolveAssemblyReference.cache
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\obj\Debug\CaterModel.csproj.CoreCompileInputs.cache
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\obj\Debug\CaterModel.dll
+C:\Users\Hank\source\repos\OldProjects\Cater\CaterModel\obj\Debug\CaterModel.pdb
